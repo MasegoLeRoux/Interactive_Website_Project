@@ -39,6 +39,4 @@ Thank you for stopping by and being a part of my coding adventure. Let's build a
 Happy coding! 😄
 
 Best regards,
-[Your Name]
-[Your Contact Information]
-[Your Social Media Links]
+Kamogelo Mashigio
