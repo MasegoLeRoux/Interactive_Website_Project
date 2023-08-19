@@ -12,8 +12,12 @@ In this repository, you'll find a growing collection of web development projects
 
 
 ##  Projects 
-Hang Man in Mzanazi context
-  ### Countdown Timer
+### Hang Man in Mzanazi Context
+  <p align="center">
+  <img src="https://github.com/MasegoLeRoux/Interactive_Website_Project/blob/main/HangMan%20%26%20ReadMe/Web%20capture_18-8-2023_19745_.jpeg" alt="Project Preview">
+</p>
+ 
+### Countdown Timer
 <p align="center">
   <img src="https://github.com/MasegoLeRoux/Interactive_Website_Project/blob/main/Countdown-timer/Web%20capture_19-8-2023_155644_127.0.0.1.jpeg" alt="Project Preview">
 </p>
