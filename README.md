@@ -4,20 +4,22 @@
   <img src="https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1489&q=80 " alt="Project Banner" height="200" width = "1000">
 </p>
 
-Hello fellow developers! 👋 Welcome to my Web Development Interactive_Website_Project repository. I'm excited to share a new project with you every day, combining HTML, JavaScript, and CSS to create exciting and useful web applications.
+Hello fellow developers! 👋 Welcome to my Web Development Interactive_Website_Project repository. I'm excited to share a new project with you every week, combining HTML, JavaScript, and CSS to create exciting and useful web applications.
 
 ## About This Repository
 
 In this repository, you'll find a growing collection of web development projects that I'm working on. My goal is to challenge myself, improve my skills, and share my progress with the community. Each project is designed to highlight different aspects of web development and showcase various techniques.
+[GitHub Pages](https://pages.github.com/).
+
 
 
 ##  Projects 
-### Hang Man in Mzanazi Context
+###  [[x]#1 Hang Man in Mzanazi Context :alien:](https://github.com/MasegoLeRoux/Interactive_Website_Project/tree/main/HangMan%20%26%20ReadMe)
   <p align="center">
   <img src="https://github.com/MasegoLeRoux/Interactive_Website_Project/blob/main/HangMan%20%26%20ReadMe/Web%20capture_18-8-2023_19745_.jpeg" alt="Project Preview">
 </p>
  
-### Countdown Timer
+### [[x] #2 Countdown Timer :pancakes:](https://github.com/MasegoLeRoux/Interactive_Website_Project/tree/main/Countdown-timer)	
 <p align="center">
   <img src="https://github.com/MasegoLeRoux/Interactive_Website_Project/blob/main/Countdown-timer/Web%20capture_19-8-2023_155644_127.0.0.1.jpeg" alt="Project Preview">
 </p>
