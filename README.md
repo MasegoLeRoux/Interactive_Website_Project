@@ -15,7 +15,7 @@ In this repository, you'll find a growing collection of web development projects
 Hang Man in Mzanazi context
 # Countdown Timer
 <p align="center">
-  <img src="Web capture_19-8-2023_155644_127.0.0.1.jpeg" alt="Project Preview">
+  <img src=https://github.com/MasegoLeRoux/Interactive_Website_Project/blob/main/Countdown-timer/Web%20capture_19-8-2023_155644_127.0.0.1.jpeg" alt="Project Preview">
 </p>
 
 
