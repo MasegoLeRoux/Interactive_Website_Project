@@ -14,7 +14,7 @@ In this repository, you'll find a growing collection of web development projects
 
 
 ##  Projects 
-###  [[x]#1 Hang Man in Mzanazi Context :alien:](https://github.com/MasegoLeRoux/Interactive_Website_Project/tree/main/HangMan%20%26%20ReadMe)
+###  [[x] #1 Hang Man in Mzanazi Context :alien:](https://github.com/MasegoLeRoux/Interactive_Website_Project/tree/main/HangMan%20%26%20ReadMe)
   <p align="center">
   <img src="https://github.com/MasegoLeRoux/Interactive_Website_Project/blob/main/HangMan%20%26%20ReadMe/Web%20capture_18-8-2023_19745_.jpeg" alt="Project Preview">
 </p>
@@ -24,6 +24,10 @@ In this repository, you'll find a growing collection of web development projects
   <img src="https://github.com/MasegoLeRoux/Interactive_Website_Project/blob/main/Countdown-timer/Web%20capture_19-8-2023_155644_127.0.0.1.jpeg" alt="Project Preview">
 </p>
 
+### [[x] #3 Password Generator :lock:](https://github.com/MasegoLeRoux/Interactive_Website_Project/tree/7f4c36fd0adc84893339a4c1d195a21cf1db62cf/Psssword%20Gen)
+<p align="center">
+  <img src="https://github.com/MasegoLeRoux/Interactive_Website_Project/blob/main/Psssword%20Gen/Web%20capture_21-8-2023_135854_.jpeg" alt="Project Preview">
+</p>
 
 ## Project Schedule
 
