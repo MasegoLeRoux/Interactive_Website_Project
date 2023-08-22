@@ -59,7 +59,7 @@ Feel free to customize various aspects of the game to suit your preferences:
 
 ## Preview
 
-![Gameplay Screenshot](link-to-gameplay-screenshot.jpg)
+![Gameplay Screenshot](https://github.com/MasegoLeRoux/Interactive_Website_Project/blob/main/Tic-Tac-Toe-Game/Web%20capture_22-8-2023_213432_127.0.0.1.jpeg)
 
 ## Acknowledgments
 
