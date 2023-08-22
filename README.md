@@ -29,6 +29,9 @@ In this repository, you'll find a growing collection of web development projects
   <img src="https://github.com/MasegoLeRoux/Interactive_Website_Project/blob/main/Psssword%20Gen/Web%20capture_21-8-2023_135854_.jpeg" alt="Project Preview">
 </p>
 
+### [[x] #4 Tic-Tac-Toe-Game
+![Gameplay Screenshot](https://github.com/MasegoLeRoux/Interactive_Website_Project/blob/main/Tic-Tac-Toe-Game/Web%20capture_22-8-2023_213432_127.0.0.1.jpeg)
+
 ## Project Schedule
 
 Get ready for a whirlwind of creativity! Here's my fast-paced project schedule:
