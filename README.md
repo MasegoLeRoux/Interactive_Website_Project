@@ -38,12 +38,12 @@ In this repository, you'll find a growing collection of web development projects
 <p align="center">
   <img src="https://github.com/MasegoLeRoux/Interactive_Website_Project/blob/main/MarvelAPP/Web%20capture_16-9-2023_204023_127.0.0.1.jpeg" alt="Project Preview">
 </p>
+
 ## Project Schedule
 
 Get ready for a whirlwind of creativity! Here's my fast-paced project schedule:
 
-- **Day 1:** HTML project with a focus on structuring content and layout.JavaScript project that adds interactivity and functionality. CSS project to style and make everything visually appealing.
-- **Day 2:** Upload the projects
+- **weekly:** HTML,Node.js and React projects with a focus on structuring content and layout.JavaScript project that adds interactivity.
 - **Repeat the cycle...**
 
 ## Why Daily Projects?
